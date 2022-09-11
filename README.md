@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chiraggadhvi7272@gmail.com**
 
-- ⚡ Fun fact **Sometimes I don't have a clue what's going in life, but I act like I do!**
+- ⚡ Fun fact **I'm kinda funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
