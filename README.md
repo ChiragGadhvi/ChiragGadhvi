@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![@chiraggadhvi's Holopin board](https://holopin.io/api/user/board?user=chiraggadhvi)](https://holopin.io/@chiraggadhvi)
 
 <h1 align="center">Hi 👋, I'm Chirag Gadhvi</h1>
 <h3 align="center">“Hard work never bothers me. I like it.”</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108175344/192454221-bd4d37b3-9e8b-4354-9d2a-14f3cb677138.gif">
+
 
 
 - 🌱 I’m currently learning **Machine Learning**
