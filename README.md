@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chiraggadhvi7272@gmail.com**
 
-- ⚡ Fun fact **I'm a programmeuse🧑‍💻**
+- ⚡ Fun fact **I'm a programmeur🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
