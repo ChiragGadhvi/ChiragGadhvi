@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Data Structures, C++**
 
