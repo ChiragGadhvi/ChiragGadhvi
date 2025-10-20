@@ -1,4 +1,4 @@
-[![@chiraggadhvi's Holopin board](https://holopin.io/api/user/board?user=chiraggadhvi)](https://holopin.io/@chiraggadhvi)
+[![@chiraggadhvi's Holopin board](https://holopin.me/chiraggadhvi)](https://holopin.io/@chiraggadhvi)
 
 <h1 align="center">Hi 👋, I'm Chirag Gadhvi</h1>
 <h3 align="center">“Hard work never bothers me. I like it.”</h3>
