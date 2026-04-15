@@ -1,6 +1,6 @@
 <div align="left">
 
-# <a href="https://chiraggadhvi.in/"><img src="https://github.com/user-attachments/assets/05e4be57-ab75-4adc-8eaa-1019cb8435f0" width="36" height="36" align="center" alt="Website" /></a> <samp>Chirag Gadhvi</samp>
+# <a href="https://chiraggadhvi.in/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/05e4be57-ab75-4adc-8eaa-1019cb8435f0" width="36" height="36" align="center" alt="Website" /></a> <samp>Chirag Gadhvi</samp>
 
 <br>
 
@@ -16,7 +16,7 @@ No massive team. No bloated timelines. Just the idea that if I sat down and focu
 
 <br>
 
-<img width="1229" height="823" alt="second_frame" src="https://github.com/user-attachments/assets/841eec58-7cb3-4a85-8eb2-5e6cc3dff3c6" />
+<img width="602" height="403" alt="second_frame" src="https://github.com/user-attachments/assets/841eec58-7cb3-4a85-8eb2-5e6cc3dff3c6" />
 
 <br><br>
 
